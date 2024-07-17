@@ -1,0 +1,28 @@
+V1
+Dayton Audio ND16FA-6 Tweeters X2
+Dayton Audio ND105-8 Drivers X2
+Cheap crossover from that wasn't built for these speakers X2
+Custom enclosure
+Custom jeans wrapping
+Premade 1" cabinet port tube
+
+Revisions:
+Tried multiple bluetooth amp boards:
+    - Several chinese bluetooth amp boards (all had too much noise and had other issues)
+    - Pre-made 18650 battery pack KAB-BE (had trouble charging, holding charge and was too big, other issues too)
+    - Dayton Audio KAB-60M Amplifier board (Used this for the whole lifetime of the speaker after the chinese boards. Only getting replaced now by a better revision of it)
+    - Replaced the drivers with some other one I can't find the datasheet for, because the previous ones broke
+    - Replaced the tweeters with Dayton Audio ND20FA because I melted through the previous ones while soldering the leads
+    - Tried some wool in the case for better acoustics, didn't notice a difference
+    - My latching switch broke, and finding a good looking replacement for cheap was difficult, so I made a flip flop circuit making a momentary switch into a latching one
+    - Switched to a proper latching switch when I found an affordable one
+
+Final revision of V1
+Custom 3d printed ported enclosure 
+Dayton Audio XXXXX drivers X2
+Dayton Audio ND20FA Tweeters X2
+Dayton audio KAB-60M Amplifier board
+Custom 5S1P battery pack with cheap chinese BMS
+No crossover (making one was on my todo list)
+Custom jeans wrapping
+Custom rear management panel with half of the ports being disconnected

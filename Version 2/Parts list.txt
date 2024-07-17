@@ -1,0 +1,9 @@
+V2
+Dayton Audio KABD-430 (4x30W Bluetooth 5.0 with Programmable DSP) 
+5S1P battery pack with bms and random 18650 cells from laptop battery
+Custom pine enclosure
+Dayton Audio XXXXX drivers X2
+Dayton Audio ND20FA Tweeters X2
+No crossover, will be relying on the Programmable DSP
+
+... To be continnued
